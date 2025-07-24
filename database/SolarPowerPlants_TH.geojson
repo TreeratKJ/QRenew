@@ -1,0 +1,245 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5797688,100.1995973 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1995973 13.5797688)",
+    "name":"Samut Sakhon",
+    "Capacity":"5.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.7131258,100.4800113 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.4800113 13.7131258)",
+    "name":"The Mall - Tha Phra",
+    "Capacity":"1.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8199492,100.4474445 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.4474445 13.8199492)",
+    "name":"Ratchaphruek",
+    "Capacity":"1.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8550947,100.5417601 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.5417601 13.8550947)",
+    "name":"The Mall - Ngamwongwan",
+    "Capacity":"1.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.7658514,100.6421705 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.6421705 13.7658514)",
+    "name":"The Mall - Bangkapi",
+    "Capacity":"1.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8282182,100.6798205 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.6798205 13.8282182)",
+    "name":"Akekamai-Ramintra",
+    "Capacity":"1.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5759609,101.0033703 ]
+    },
+    "properties": {
+    "WKT":"POINT (101.0033703 13.5759609)",
+    "name":"Chachoengsao",
+    "Capacity":"1.3 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1690859,100.5528226 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.5528226 14.1690859)",
+    "name":"Bangchak",
+    "Capacity":"16.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1689819,100.5530586 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.5530586 14.1689819)",
+    "name":"Bangchak III",
+    "Capacity":"25.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9754302,100.1837652 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1837652 13.9754302)",
+    "name":"Sai Thong",
+    "Capacity":"6.1 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9840662,100.1962857 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1962857 13.9840662)",
+    "name":"Sai Yoi",
+    "Capacity":"3.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0004893,100.200201 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.200201 14.0004893)",
+    "name":"Sai Prapa ",
+    "Capacity":"7.2 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1076288,100.1737777 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1737777 14.1076288)",
+    "name":"Sai Phet",
+    "Capacity":"35.9 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1367617,100.1432434 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1432434 14.1367617)",
+    "name":"Sai Yai - Solarco",
+    "Capacity":"23.8 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1383847,100.1506249 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1506249 14.1383847)",
+    "name":"Sai Yai - Solarta",
+    "Capacity":"9.7 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1542604,100.1377288 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1377288 14.1542604)",
+    "name":"Sai Kyo",
+    "Capacity":"11.9 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2224476,100.1128729 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1128729 14.2224476)",
+    "name":"Sai Saphan",
+    "Capacity":"7.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2446193,100.1275879 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.1275879 14.2446193)",
+    "name":"Sai Tatong",
+    "Capacity":"1.0 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3219005,100.3022163 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.3022163 14.3219005)",
+    "name":"Bang Sai",
+    "Capacity":"1.7 MW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2172742,100.2778664 ]
+    },
+    "properties": {
+    "WKT":"POINT (100.2778664 14.2172742)",
+    "name":"Sai Sena - Solarta",
+    "Capacity":"3.0 MW"
+    }
+  }
+]
+}
