@@ -1,0 +1,14 @@
+﻿Number,name,capacity(MW),latitude,longitude,primary_fuel,estimated_generation_gwh,Estimated cost for 1 year
+1,Bukit Palong Solar Power Plant,3,2.5823,101.8313,Solar,2.419182948,293553.1915
+2,Gebeng Solar Power Plant,10,3.9924,103.3682,Solar,8.063943162,978510.6383
+3,Gemas Solar Power Plant,10.2,2.5956,102.6216,Solar,8.225222025,998080.8511
+4,Hijau Solar Power Plant,8,2.3409,102.2168,Solar,6.451154529,782808.5106
+5,Jasin,50,2.34,102.35,Solar,40.31971581,4892553.191
+6,Kuala Langat,50,2.745,101.56,Solar,40.31971581,4892553.191
+7,Kuala Lumpur Airport Solar Power Plant,19,2.7791,101.7144,Solar,15.32149201,1859170.213
+8,Kuala Perlis Solar Power Plant,6,6.4105,100.1378,Solar,4.838365897,587106.383
+9,Kuala Sawah Solar Power Plant,5.3,2.6355,101.9404,Solar,4.273889876,518610.6383
+10,Merchang,50,4.934,103.336,Solar,40.31971581,4892553.191
+12,Pajam Solar Power Plant,13,2.8357,101.8488,Solar,10.48312611,1272063.83
+13,Rimba Terjun Solar Power Plant,2,1.4721,103.3925,Solar,1.612788632,195702.1277
+14,Sepang 5,5,2.715,101.75,Solar,4.031971581,489255.3191
